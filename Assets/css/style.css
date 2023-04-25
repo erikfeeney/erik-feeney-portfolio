@@ -37,3 +37,21 @@ nav ul li a {
   text-decoration: none;
   font-weight: bold;
 }
+
+section#about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+section#about p {
+  text-align: center;
+}
+
+section#about img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
