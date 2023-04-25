@@ -1,7 +1,7 @@
 Erik-Feeney-Portfolio
 
 Preview/Screenshot/Link
-(https://user-images.githubusercontent.com/52939857/234148430-2b54c3cb-a58e-4a32-8010-1208da022e1d.png)
+![image](https://user-images.githubusercontent.com/52939857/234148430-2b54c3cb-a58e-4a32-8010-1208da022e1d.png)
 
 Description
 This website is Erik Feeney's personal portfolio to highlight his web development projects.
